@@ -11,3 +11,16 @@ C:\Users\Lucas Willian\Documents\c#\gradebook\src\GradeBook\obj\Debug\netcoreapp
 C:\Users\Lucas Willian\Documents\c#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
 C:\Users\Lucas Willian\Documents\c#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
 C:\Users\Lucas Willian\Documents\c#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
+C:\Users\Lucas Willian\Documents\c#\GradeBook\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+C:\Users\Lucas Willian\Documents\c#\GradeBook\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+C:\Users\Lucas Willian\Documents\c#\GradeBook\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+C:\Users\Lucas Willian\Documents\c#\GradeBook\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+C:\Users\Lucas Willian\Documents\c#\GradeBook\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\Lucas Willian\Documents\c#\GradeBook\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\Lucas Willian\Documents\c#\GradeBook\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
+C:\Users\Lucas Willian\Documents\c#\GradeBook\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+C:\Users\Lucas Willian\Documents\c#\GradeBook\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+C:\Users\Lucas Willian\Documents\c#\GradeBook\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Willian\Documents\c#\GradeBook\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\Lucas Willian\Documents\c#\GradeBook\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\Lucas Willian\Documents\c#\GradeBook\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
